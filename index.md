@@ -6,7 +6,7 @@ Guía rápida y sencilla de Ejecución de Pruebas de Chattigo 😉
 1. [Ejecutar pruebas desde GitHub Actions](#id1)
 2. [Ejecutar pruebas desde Discord](#id2)
 3. [Ver reporte de pruebas](#id3)
-4. [Ejecutar subsuite de pruebas](#id4)
+4. [Ejecutar subsuite de pruebas (marcas)](#id4)
 
 
 ---
@@ -81,7 +81,7 @@ Abrir Discord → Ir al servidor de Automation → Ir al canal #general → Escr
 
 
 <div id='id4' />
-## Ejecutar subsuite de pruebas🔖
+## Ejecutar subsuite de pruebas (marcas) 🔖
 
 En ocasiones no queremos correr el 100% de las pruebas. Ya sea porque quiero correr solamente pruebas que afectan a una funcionalidad específica, porque quiero hacer un smoke test de la aplicación, ¿O por qué no? correr sólo las pruebas de backend.
 
