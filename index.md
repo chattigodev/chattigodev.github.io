@@ -100,7 +100,6 @@ En ocasiones no queremos correr el 100% de las pruebas. Ya sea porque quiero cor
 [Repositorio](https://github.com/chattigodev/automation-canales)
 - **webchat**: Pruebas del webchat.
 - **whatsapp**: Pruebas de WhatsApp.
-- **messenger**: Pruebas de Messenger.
 - **facebook**: Pruebas de Facebook Muro.
 
 ### Marcas para pruebas del Supervisor 🔖
