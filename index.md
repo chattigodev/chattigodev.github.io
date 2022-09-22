@@ -65,7 +65,20 @@ Abrir Discord → Ir al servidor de Automation → Ir al canal #general → Escr
   /run --env="leones" --repo="canales" -m="messenger and back"
   
  ```
+### Diccionario 
+```markdown
+  en el parametro "-m" tenemos los siguientes prefijos:
+  
+  TODOS de web!   = web
+  login           = login
+  autoanswer      = autoanswers
+  channels        = channels
+  frequent answer = faq
+  schedules       = schedule
+  KPI             = kpi
+  monitor         = monitor
 
+ ```
 
 ---
 
