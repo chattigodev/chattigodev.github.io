@@ -105,11 +105,16 @@ En ocasiones no queremos correr el 100% de las pruebas. Ya sea porque quiero cor
 
 ### Marcas para pruebas del Supervisor 🔖
 [Repositorio](https://github.com/chattigodev/automation-supervisor)
-- **login**: Pruebas relacionadas con el login en la plataforma.
-- **kpi**: Pruebas del Dashboard de KPI's (Chats cerrados, chat activos por agente, etc.)
-- **monitor**: Pruebas relacionadas al monitoreo de supervisor (chats asignados, etc.) 
-- **schedules**: Pruebas relacionadas al agenda del supervisor (desactivar día, etc.) 
-- **kpi**: Pruebas relacionadas al KPI del supervisor (agentes activos,chat activos etc.) 
-- **faq**: Pruebas relacionadas a preguntas frecuentes del supervisor (crear e importar preguntas frecuentes) 
-- **channels**:  Pruebas relacionadas a canales del super (crear canal, desactivar canal, etc.)
+## back
+  - **login**: Pruebas relacionadas con el login en la plataforma.
+  - **kpi**: Pruebas del Dashboard de KPI's (Chats cerrados, chat activos por agente, etc.)
+  - **monitor**: Pruebas relacionadas al monitoreo de supervisor (chats asignados, etc.) 
+## web
+  - **login**: Pruebas relacionadas con el login en la plataforma.
+  - **kpi**: Pruebas del Dashboard de KPI's (Chats cerrados, chat activos por agente, etc.)
+  - **monitor**: Pruebas relacionadas al monitoreo de supervisor (chats asignados, etc.) 
+  - **schedules**: Pruebas relacionadas al agenda del supervisor (desactivar día, etc.) 
+  - **kpi**: Pruebas relacionadas al KPI del supervisor (agentes activos,chat activos etc.) 
+  - **faq**: Pruebas relacionadas a preguntas frecuentes del supervisor (crear e importar preguntas frecuentes) 
+  - **channels**:  Pruebas relacionadas a canales del super (crear canal, desactivar canal, etc.)
 - **autoanswers**:  Pruebas relacionadas a autorespuestas del super (chat message bloqueado, sin actividad, etc.)
