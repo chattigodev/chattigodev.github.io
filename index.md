@@ -105,11 +105,11 @@ En ocasiones no queremos correr el 100% de las pruebas. Ya sea porque quiero cor
 
 ### Marcas para pruebas del Supervisor 🔖
 [Repositorio](https://github.com/chattigodev/automation-supervisor)
-## back
+### back
   - **login**: Pruebas relacionadas con el login en la plataforma.
   - **kpi**: Pruebas del Dashboard de KPI's (Chats cerrados, chat activos por agente, etc.)
   - **monitor**: Pruebas relacionadas al monitoreo de supervisor (chats asignados, etc.) 
-## web
+### web
   - **login**: Pruebas relacionadas con el login en la plataforma.
   - **kpi**: Pruebas del Dashboard de KPI's (Chats cerrados, chat activos por agente, etc.)
   - **monitor**: Pruebas relacionadas al monitoreo de supervisor (chats asignados, etc.) 
